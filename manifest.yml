@@ -5,7 +5,7 @@ applications:
 disk_quota: 100MB
 buildpack: go_buildpack
 env:
-        GOPACKAGENAME : 
+        GOPACKAGENAME : "blockparty"
         BLOCKCHAINAPI : 
         BLOCKCHAINUSER: 
         BLOCKCHAINPASSWORD: 
